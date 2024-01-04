@@ -1,7 +1,8 @@
 repo_name: ashleanichols/google-services
 report_id: 1a282c2e4453d6bd0456829b2deb7a14
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T16:59:24+00:00'
+timestamp: '2024-01-04T15:07:34+00:00'
 requested_by: caller9
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/ashleanichols/google-services
   detection_source: Repo Metadata
 - name: Objective-C
   description: The primary programming language you use when writing software for
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/ashleanichols/google-services
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -36,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/ashleanichols/google-services
   detection_source: Repo Metadata
 - name: Swift
   description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
@@ -46,6 +50,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/ashleanichols/google-services
   detection_source: Repo Metadata
 - name: Android SDK
   description: An SDK that provides you the API libraries and developer tools necessary
@@ -57,7 +62,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
-  detection_source_url: android/signin/app/build.gradle
+  detection_source_url: https://github.com/ashleanichols/google-services/blob/master/android/signin/app/build.gradle
   detection_source: android/signin/app/build.gradle
   last_updated_by: faycelchaoua
   last_updated_on: 2019-11-04 23:40:25.000000000 Z
@@ -69,6 +74,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ashleanichols/google-services
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -78,6 +84,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/ashleanichols/google-services/blob/master/.github/workflows/canonical-gradle.yml
   detection_source: ".github/workflows/canonical-gradle.yml"
   last_updated_by: Adam
   last_updated_on: 2020-06-30 15:36:39.000000000 Z
@@ -90,7 +97,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
-  detection_source: android/signin/gradlew.bat
+  detection_source_url: https://github.com/ashleanichols/google-services/blob/master/android/analytics/app/build.gradle
+  detection_source: android/analytics/app/build.gradle
   last_updated_by: Sam Thorogood
   last_updated_on: 2015-04-24 06:19:43.000000000 Z
 - name: RubyGems
@@ -101,6 +109,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/ashleanichols/google-services/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Ibrahim Ulukaya
   last_updated_on: 2017-07-13 19:38:38.000000000 Z
@@ -113,6 +122,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/ashleanichols/google-services/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Ibrahim Ulukaya
   last_updated_on: 2016-12-15 21:55:44.000000000 Z
@@ -124,6 +134,7 @@ tools:
   category: Analytics
   sub_category: General Analytics
   image_url: https://img.stackshare.io/service/64/cU74ahCn_400x400.jpg
+  detection_source_url: https://github.com/ashleanichols/google-services/blob/master/ios/analytics/Podfile
   detection_source: ios/analytics/Podfile
   last_updated_by: Ibrahim Ulukaya
   last_updated_on: 2017-06-12 15:31:42.000000000 Z
@@ -136,7 +147,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
-  detection_source_url: android/signin/app/build.gradle
+  detection_source_url: https://github.com/ashleanichols/google-services/blob/master/android/signin/app/build.gradle
   detection_source: android/signin/app/build.gradle
   last_updated_by: faycelchaoua
   last_updated_on: 2019-11-04 23:40:25.000000000 Z
@@ -148,6 +159,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/ashleanichols/google-services/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Ibrahim Ulukaya
   last_updated_on: 2017-07-13 19:38:38.000000000 Z
@@ -160,6 +172,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ashleanichols/google-services
   detection_source: Repo Metadata
 - name: GoogleAnalytics
   description: Google Analytics - measure your app performance
@@ -170,6 +183,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/ashleanichols/google-services/blob/master/ios/analytics/Podfile
   detection_source: ios/analytics/Podfile
   last_updated_by: Ibrahim Ulukaya
   last_updated_on: 2017-06-12 15:31:42.000000000 Z
@@ -182,6 +196,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/ashleanichols/google-services/blob/master/ios/signin/Podfile
   detection_source: ios/signin/Podfile
   last_updated_by: Ibrahim Ulukaya
   last_updated_on: 2017-06-12 15:31:42.000000000 Z
@@ -194,6 +209,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19189/default_2266a6c0e2693d55b1999a7c5db4be13e5720232.png
+  detection_source_url: https://github.com/ashleanichols/google-services/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Ibrahim Ulukaya
   last_updated_on: 2017-07-13 19:38:38.000000000 Z
@@ -207,7 +223,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19165/default_f74adb1c8d95c3268ea94f5ba9bbb60a0bc900ed.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/ashleanichols/google-services/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: Ibrahim Ulukaya
   last_updated_on: 2017-07-13 19:38:38.000000000 Z
